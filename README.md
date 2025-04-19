@@ -5,8 +5,8 @@ Capstone Project. This project is the second project using everything I learned.
 
 ## 🚀 Features
 
-- ![HTML Icon](https://img.icons8.com/color/24/html-5.png) **HTML, CSS**
-- ![Flexbox Icon](https://img.icons8.com/color/24/css3.png) **Flexbox**
+- ![HTML Icon](https://img.icons8.com/color/24/html-5.png) **HTML**
+- ![Flexbox Icon](https://img.icons8.com/color/24/css3.png) **CSS & Flexbox**
 - ![Bootstrap Icon](https://img.icons8.com/color/24/bootstrap.png) **Bootstrap 5 Framework**
 
 ## Authors
